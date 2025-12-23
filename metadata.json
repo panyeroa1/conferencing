@@ -1,0 +1,8 @@
+{
+  "name": "Orbit Meet 2",
+  "description": "A premium meeting web app with real-time translation, captions, and read-aloud functionality powered by Gemini Live API.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
